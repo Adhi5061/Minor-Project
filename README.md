@@ -1,3 +1,7 @@
+![calculator](https://github.com/Adhi5061/Minor-Project/assets/120810982/a03edd06-e17c-4c7e-bbc7-0e75b92211ad)
+
+
+
 # calc
 
 A new Flutter project.
